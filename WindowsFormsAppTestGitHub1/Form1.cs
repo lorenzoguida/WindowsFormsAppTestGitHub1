@@ -20,6 +20,7 @@ namespace WindowsFormsAppTestGitHub1
         {
             MessageBox.Show("Ciao");
             MessageBox.Show("Ciao2");
+            MessageBox.Show("Ciao3");
         }
     }
 }
